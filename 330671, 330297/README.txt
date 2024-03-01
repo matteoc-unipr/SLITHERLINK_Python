@@ -1,0 +1,5 @@
+GAME FILE ----> SLITHERLINK.py
+GUI FILE -----> boardgamegui.py
+BOARDGAME FILE ---> boardgame.py (MODIFIED VERSION)
+
+!!!BEFORE STARTING THE PROGRAM, IN boardgamegui.py CHANGE THE FILE PATH AT LINE 63, 66, 97 WITH YOUR PATH OF pop.mp3, pop3.mp3 AND win.mp3!!!
